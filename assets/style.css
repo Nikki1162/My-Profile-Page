@@ -98,3 +98,15 @@
         grid-row-start: 4;
         grid-row-end: 9;
     }
+
+    .image-h4 {
+        text-decoration: none;
+        z-index: 100;
+        position: relative;
+        color: rgb(255, 255, 255);
+        font-size: 24px;
+        font-weight: bold;
+        left: 0;
+        bottom: 40px;
+        margin: 10px;
+    }
