@@ -9,6 +9,12 @@
     padding: 0;
     font-family: 'Courier New', Courier, monospace;
   }
+
+  /* Text styling */
+
+  h1, h2, h3, h5 {
+    color: #d49f98;
+  }
   
     /* Navbar */
 
@@ -52,12 +58,30 @@
 
     /* Intro */
 
+    .introSection {
+        display: flex;
+        margin: 0;
+        padding: 0;
+        align-items: center;
+        justify-content: center;
+    }
+
     #introImage img {
-        height: 350px;
+        height: 400px;
     }
 
     #introImage:hover {
         opacity: 0.9;
+    }
+
+    /* About Me */
+
+    .about-me {
+        display: inline-block;
+        margin: 0;
+        padding-left: 20%;
+        padding-right: 20%;
+        padding-bottom: 70px;
     }
 
     /* Projects */
@@ -109,4 +133,49 @@
         left: 0;
         bottom: 40px;
         margin: 10px;
+    }
+
+    /* Contact Me */
+
+    #work {
+        margin: 0;
+        padding: 55px;
+        padding-bottom: 0;
+    }
+
+    .page-section-contact {
+        display: flex;
+        margin: 0;
+        padding-top: 0;
+        padding-left: 20%;
+        padding-right: 20%;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 70px;
+    }
+
+
+    .page-section-contact img {
+        max-height: 50px;
+    }
+
+    .page-section-contact a {
+        color: inherit;
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+    .page-section-contact a:hover {
+        color: #595a53;
+    }
+
+    /* Footer */
+
+    .footer {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
     }
