@@ -22,6 +22,8 @@ Lastly, I added media queries to ensure that the grid gallery would respond to t
 ## **Result:**
 The website looks like this:
 
+<img src="images/PortfolioScreenshot.png> />
+
 It has responsive elements, and meets each of the criteria laid out in the brief.
 
 You can view the application live here:
