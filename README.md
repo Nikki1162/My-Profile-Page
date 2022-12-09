@@ -20,9 +20,7 @@ I employed CSS Grid to display some images of 'recent work', and all of these im
 Lastly, I added media queries to ensure that the grid gallery would respond to the size of the user's device and would display the images to suit each screen size.
 
 ## **Result:**
-The website looks like this:
-
-<img src="images/PortfolioScreenshot.png> />
+![This is what the live application looks like](./images/PortfolioScreenshot.png)
 
 It has responsive elements, and meets each of the criteria laid out in the brief.
 
