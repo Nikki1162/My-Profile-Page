@@ -24,9 +24,9 @@ Lastly, I added media queries to ensure that the grid gallery would respond to t
 
 It has responsive elements, and meets each of the criteria laid out in the brief.
 
-You can view the application live here:
+You can view the application live here: https://nikki1162.github.io/My-Profile-Page/
 
-You can view the GitHub repository here:
+You can view the GitHub repository here: https://github.com/Nikki1162/My-Profile-Page
 
 ## **What did we learn?**
 This project really helped to re-enforce the knowledge I gained on the use of Flexbox and Grid, as well as enabling me to implement my own media queries and see them in action. I particularly enjoyed tweaking the image gallery layout, and found it especially satisfying seeing it respond to different viewports.
